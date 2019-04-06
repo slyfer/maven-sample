@@ -1,0 +1,3 @@
+Proprerties from pom: name: ${name} ${project.version} ${maven.compiler.source}
+Proprerty from filter file ${prop1}
+
